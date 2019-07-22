@@ -1,4 +1,8 @@
 gupta
 2551
 1111
+<<<<<<< HEAD
 asdfgh
+=======
+asdf
+>>>>>>> 1571e16a4bdef5262d6c711d47d2375291a5f5dc
